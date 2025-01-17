@@ -1,0 +1,12 @@
+{
+  "private":true,
+  "type":"module",
+  "name":"vite-react-ts",
+  "version": "1.0.0",
+  "description":"Vite React Typescript",
+  "engines": {
+    "node": ">=22.0.0",
+    "npm": ">=9.0.0",
+    "vscode": ">=1.9.0"
+  }
+}
