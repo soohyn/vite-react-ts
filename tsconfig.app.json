@@ -6,6 +6,7 @@
     "lib": ["ES2020", "DOM", "DOM.Iterable"],
     "module": "ESNext",
     "skipLibCheck": true,
+
     /* 번들러 모드 */
     "moduleResolution": "bundler",
     "allowImportingTsExtensions": true,
@@ -13,6 +14,7 @@
     "moduleDetection": "force",
     "noEmit": true,
     "jsx": "react-jsx",
+
     /* 린팅 */
     "strict": true,
     "noUnusedLocals": true,
